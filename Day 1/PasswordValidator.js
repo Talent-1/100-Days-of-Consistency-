@@ -14,4 +14,4 @@ function validatePassword(userPassword) {
 
 // Example usage:
 let userPassword = `simplr123`; 
-console.log(validatePassword(userPassword));
+console.log(validatePassword(userPassword));// Password must be at least 8 characters long and include at least one uppercase, one lowercase, a digit and a special character
